@@ -8,7 +8,7 @@ create table products (
     product_name varchar(50),
     department_name varchar(50),
     price decimal(10,2),
-    stock_qantity int,
+    stock_quantity int,
     primary key (id)
 );
 
